@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ziua 2</title>
+</head>
+
+<body>
+
+<h1>Ziua 2</h1>
+
+<p>
+vizitarea parcului carol
+</p>
+
+<img src="" width="300">
+
+<table border="1">
+<tr>
+    <th>Activitate</th>
+    <th>Durata</th>
+</tr>
+
+<tr>
+    <td>Documentare</td>
+    <td>3 ore</td>
+</tr>
+
+<tr>
+    <td>Cautare informatii</td>
+    <td>2 ore</td>
+</tr>
+</table>
+
+<br>
+
+<a href="index.html">HOME</a>
+
+</body>
+</html>
