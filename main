@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Proiect Scolar</title>
+</head>
+
+<body bgcolor="lightblue">
+
+    <h1 align="center">Proiect Scolar - Activitatea pe 5 zile</h1>
+
+    <p>
+        Acest site prezinta activitatile realizate in cadrul proiectului scolar
+        pe parcursul a 5 zile.
+    </p>
+
+    <h2>Zilele proiectului</h2>
+
+    <ul>
+        <li><a href="ziua1.html">Ziua 1</a></li>
+        <li><a href="ziua2.html">Ziua 2</a></li>
+        <li><a href="ziua3.html">Ziua 3</a></li>
+        <li><a href="ziua4.html">Ziua 4</a></li>
+        <li><a href="ziua5.html">Ziua 5</a></li>
+    </ul>
+
+</body>
+</html>
