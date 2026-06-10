@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ziua 1</title>
+</head>
+
+<body>
+
+<h1>Ziua 1</h1>
+
+<p>
+in prima zi am merrs in parcul lumea copiilor
+</p>
+
+<img src="imagine1.jpg" width="300">
+
+<h2>Tabel activitati</h2>
+
+<table border="1">
+<tr>
+    <th>15:00</th>
+    <th> sa curatam parcul lumea copiilor</th>
+</tr>
+
+
+</body>
+</html>
